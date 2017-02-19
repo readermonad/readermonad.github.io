@@ -7,6 +7,6 @@ categories: update
 
 Hello All,
 
-This site is still in development, check back later for more details.
+This site is still in development, look at the [about](/about) page to get an idea of what it will become.
 
 -- Owen
