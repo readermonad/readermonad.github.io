@@ -21,3 +21,7 @@ Other links:
 - [ncatlab](https://ncatlab.org)
 
   A good reference for everything related to category theory
+
+- [TheCatsters][https://www.youtube.com/user/TheCatsters]
+
+  A questionably good youtube channel (haven't looked much at it)
