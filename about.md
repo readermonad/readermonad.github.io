@@ -21,6 +21,10 @@ Other links:
 - [ncatlab](https://ncatlab.org)
 
   A good reference for everything related to category theory
+  
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+  If you are a programmer, this will ground category theory in solid examples.
 
 - [TheCatsters](https://www.youtube.com/user/TheCatsters)
 
