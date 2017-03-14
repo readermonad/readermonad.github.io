@@ -15,8 +15,8 @@ Summary:
   the same page, but we are going to move to following a series of lecture notes
   from a class taught at Cornell after the first couple weeks.
 
-- We are going to communicate via a Slack chat, which will be set up soon (this
-  post will be updated when that happens).
+- We are going to communicate via a Slack chat, which will be set up soon.
+  UPDATE: the chat is readermonad.slack.com.
 
 - For the first week, everyone should read about categories, functors, and
   universal mapping properties, specifically products and coproducts, and bring
