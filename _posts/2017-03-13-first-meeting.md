@@ -12,8 +12,12 @@ Summary:
 - We are planning to meet 3-4pm every Sunday.
 
 - We are going to start by catching up on basic category theory so everybody is on
-  the same page, but we are going to move to following a series of lecture notes
-  from a class taught at Cornell after the first couple weeks.
+  the same page, ~~but we are going to move to following a series of lecture notes
+  from a class taught at Cornell after the first couple weeks.~~
+  This was the original plan, but ultimately we decided to do a "top down"
+  approach, wherein we pick a larger topic such as "haskell optics", look up their
+  category theoretic definition, and work towards understanding that piece by
+  piece.
 
 - We are going to communicate via a Slack chat, which will be set up soon.
   UPDATE: the chat is readermonad.slack.com.
