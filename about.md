@@ -29,3 +29,7 @@ Other links:
 - [TheCatsters](https://www.youtube.com/user/TheCatsters)
 
   A questionably good youtube channel (haven't looked much at it)
+  
+- [Patrick Stevens](https://www.patrickstevens.co.uk/)
+
+  This guy has a lot of cool stuff on his website, not organized terribly well though. If you search for "awodey", you'll see a bunch of posts where he goes through his understanding of some of the Awodey chapters.
